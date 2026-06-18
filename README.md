@@ -78,10 +78,6 @@ CodeAlpha_LanguageTranslation/
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your application here after uploading them to the repository.
-
 ---
 
 ## 🚀 Future Improvements
