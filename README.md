@@ -34,32 +34,7 @@ This application translates text instantly between multiple languages using AI-p
 
 ---
 
-## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_LanguageTranslation.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd CodeAlpha_LanguageTranslation
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-streamlit run app.py
-```
-
+live demo:https://chatgpt.com/s/t_6a34ea30da08819197c58217e7f77816
 ---
 
 ## 📂 Project Structure
