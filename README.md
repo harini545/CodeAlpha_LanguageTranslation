@@ -34,7 +34,7 @@ This application translates text instantly between multiple languages using AI-p
 
 ---
 
-live demo:https://chatgpt.com/s/t_6a34ea30da08819197c58217e7f77816
+live demo:https:https://ai-language-trasulator.streamlit.app/
 ---
 
 ## 📂 Project Structure
